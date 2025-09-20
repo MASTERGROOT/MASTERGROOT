@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vivitthachai Laprattanatrai (MASTERGROOT) <!-- (Good) -->
+# 🙏 Sawasdee, I'm Vivitthachai Laprattanatrai (Good) <!-- (MASTERGROOT) -->
 
 **Business Analyst | Data Enthusiast | Lifelong Learner**
 
