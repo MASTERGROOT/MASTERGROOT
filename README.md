@@ -26,9 +26,9 @@
 ## 🎓 Certifications
 
 - [Google Data Analytics (Coursera)](https://coursera.org/share/76a75c537b9a35d55da0a2cf7dcf22eb)
-- [Data Analysis with Python (freeCodeCamp)](https://freecodecamp.org/certification/Mastergroot/data-analysis-with-python-v7)
-- [Scientific Computing with Python (freeCodeCamp)](https://freecodecamp.org/certification/Mastergroot/scientific-computing-with-python-v7)
-- White Hat Hacking for Security 2022
+- [Data Analysis with Python (freeCodeCamp)](https://www.freecodecamp.org/certification/mastergroot/data-analysis-with-python-v7)
+- [Scientific Computing with Python (freeCodeCamp)](https://www.freecodecamp.org/certification/mastergroot/scientific-computing-with-python-v7)
+- [White Hat Hacking for Security 2022](https://1drv.ms/i/s!AnOi80Sr5WnkgbwDK1F71y8pQyZFsg?e=xJ8c2S)
 
 ---
 
