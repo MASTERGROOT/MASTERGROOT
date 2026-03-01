@@ -46,7 +46,7 @@
 
 ## 🌟 Projects
 
-- [PJM_SQL_CODE](https://github.com/MASTERGROOT/PJM_SQL_CODE)
+- [PJM2WORK](https://github.com/MASTERGROOT/PJM2WORK)
 - [Rock-Paper-Scissor](https://github.com/MASTERGROOT/Rock-Paper-Scissor)
 - [javascript-exercises](https://github.com/MASTERGROOT/javascript-exercises)
 - [MicroBlog](https://github.com/MASTERGROOT/MicroBlog)
